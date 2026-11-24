@@ -1,4 +1,4 @@
-## vipul pinumalla 📈
+## vipul pinumalla
 
 bmath + bba double degree @ uwaterloo & laurier. into data and finance.
 
