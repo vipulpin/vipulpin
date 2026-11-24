@@ -1,32 +1,10 @@
-<h1 align="center">📈 vipul pinumalla</h1>
+## vipul pinumalla 📈
 
-<p align="center">
-  <i>math × business @ uwaterloo + laurier — working where data meets finance</i>
-</p>
+bmath + bba double degree @ uwaterloo & laurier. into data and finance.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vipulpin/"><img src="https://img.shields.io/badge/LinkedIn-vipulpin-0A2540?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/vipulpinumalla"><img src="https://img.shields.io/badge/Instagram-@vipulpinumalla-0A2540?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:vpinumal@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-vpinumal@uwaterloo.ca-0A2540?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+- 🏛️ building **Noble**, an investment platform that simplifies financial analysis, portfolio planning, and investment discovery for beginners
+- 📊 growth analytics @ Enabled Talent
+- 🧭 strategy intern @ RISE Global
+- 🛠️ python · typescript · sql · react · excel · git · racket
 
----
-
-### 💼 current holdings
-
-- 🏛️ **Noble** — building an investment platform that simplifies financial analysis, portfolio planning, and investment discovery for beginners
-- 📊 **Enabled Talent** — growth analytics on the B2B pipeline & outreach
-- 🧭 **RISE Global** — strategy intern
-
-### 🎯 watchlist
-
-`data analytics` · `finance` · `markets` · `banking`
-
-### 🛠️ toolkit
-
-**languages:** `python` · `typescript` · `sql` · `racket`<br>
-**tools:** `react` · `excel` · `git`
-
----
-
-<p align="center"><sub>▲ always compounding</sub></p>
+📫 [vpinumal@uwaterloo.ca](mailto:vpinumal@uwaterloo.ca) · [linkedin](https://www.linkedin.com/in/vipulpin/) · [instagram](https://www.instagram.com/vipulpinumalla)
